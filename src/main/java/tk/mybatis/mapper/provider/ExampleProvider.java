@@ -33,6 +33,7 @@ import tk.mybatis.mapper.mapperhelper.SqlHelper;
  * ExampleProvider实现类，基础方法实现类
  *
  * @author liuzh
+ * @date 20200403
  */
 public class ExampleProvider extends MapperTemplate {
 

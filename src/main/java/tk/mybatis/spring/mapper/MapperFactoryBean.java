@@ -31,6 +31,7 @@ import tk.mybatis.mapper.mapperhelper.MapperHelper;
  *
  * @param <T>
  * @author liuzh
+ * @date 20200403
  */
 public class MapperFactoryBean<T> extends org.mybatis.spring.mapper.MapperFactoryBean<T> {
 
@@ -51,6 +52,7 @@ public class MapperFactoryBean<T> extends org.mybatis.spring.mapper.MapperFactor
         super.checkDaoConfig();
         //通用Mapper
         if (mapperHelper.isExtendCommonMapper(getObjectType())) {
+            //这里去处理该类所对应的MappedStatement，封装在helper类中处理
             mapperHelper.processConfiguration(getSqlSession().getConfiguration(), getObjectType());
         }
     }

@@ -51,6 +51,7 @@ import java.util.*;
  * 通用Mapper模板类，扩展通用Mapper时需要继承该类
  *
  * @author liuzh
+ * @date 20200403
  */
 public abstract class MapperTemplate {
     private static final XMLLanguageDriver languageDriver = new XMLLanguageDriver();

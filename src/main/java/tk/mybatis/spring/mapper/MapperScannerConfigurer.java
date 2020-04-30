@@ -68,6 +68,7 @@ public class MapperScannerConfigurer extends org.mybatis.spring.mapper.MapperSca
      */
     @Override
     public void postProcessBeanDefinitionRegistry(BeanDefinitionRegistry registry) {
+        // 调用mybatis的后置注册处理，扫描mapper类注册为MapperFactoryBean对象
         super.postProcessBeanDefinitionRegistry(registry);
         //如果没有注册过接口，就注册默认的Mapper接口
         this.mapperHelper.ifEmptyRegisterDefaultInterface();
@@ -77,6 +78,8 @@ public class MapperScannerConfigurer extends org.mybatis.spring.mapper.MapperSca
             BeanDefinition beanDefinition = registry.getBeanDefinition(name);
             if (beanDefinition instanceof GenericBeanDefinition) {
                 definition = (GenericBeanDefinition) beanDefinition;
+                // 判断注册的bean是MapperFactoryBean，设置beanClass为 tk.mybatis.spring.mapper.MapperFactoryBean
+                // 设置MapperHelper属性
                 if (StringUtil.isNotEmpty(definition.getBeanClassName())
                         && definition.getBeanClassName().equals("org.mybatis.spring.mapper.MapperFactoryBean")) {
                     definition.setBeanClass(MapperFactoryBean.class);

@@ -33,6 +33,9 @@ import tk.mybatis.mapper.mapperhelper.SqlHelper;
  * BaseSelectProvider实现类，基础方法实现类
  *
  * @author liuzh
+ * @date 20200403
+ * 到这里我们就大概知道了这个库为我们提供便利的原理了，总的来说就是这个库帮我们提供了对表的基本操作的sql，
+ * 帮我们省了很多工作量，而且维护起来也很方便，否则我们的xml文件动不动就几百行甚至上千行
  */
 public class BaseSelectProvider extends MapperTemplate {
 

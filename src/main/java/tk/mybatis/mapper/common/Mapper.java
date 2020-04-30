@@ -33,6 +33,7 @@ package tk.mybatis.mapper.common;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @date 20200403
  */
 public interface Mapper<T> extends
         BaseMapper<T>,

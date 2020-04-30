@@ -32,6 +32,7 @@ import tk.mybatis.mapper.provider.base.BaseSelectProvider;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @date 20200403
  */
 public interface SelectOneMapper<T> {
 
@@ -40,6 +41,7 @@ public interface SelectOneMapper<T> {
      *
      * @param record
      * @return
+     * @SelectProvider是mybatis3之后提供的，用于灵活的设置sql来源，这里设置了服务提供类和方法
      */
     @SelectProvider(type = BaseSelectProvider.class, method = "dynamicSQL")
     T selectOne(T record);

@@ -31,6 +31,7 @@ import tk.mybatis.mapper.common.base.select.*;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @date 20200403
  */
 public interface BaseSelectMapper<T> extends
         SelectOneMapper<T>,

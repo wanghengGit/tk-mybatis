@@ -46,6 +46,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * <p>项目地址 : <a href="https://github.com/abel533/Mapper" target="_blank">https://github.com/abel533/Mapper</a></p>
  *
  * @author liuzh
+ * @date 20200403
  */
 public class MapperHelper {
     /**
@@ -306,8 +307,10 @@ public class MapperHelper {
         for (Object object : new ArrayList<Object>(configuration.getMappedStatements())) {
             if (object instanceof MappedStatement) {
                 MappedStatement ms = (MappedStatement) object;
+                //检查这个MappedStatement是否属于此映射对象
                 if (ms.getId().startsWith(prefix) && isMapperMethod(ms.getId())) {
                     if (ms.getSqlSource() instanceof ProviderSqlSource) {
+                        //去设置该statement的sql语句
                         setSqlSource(ms);
                     }
                 }

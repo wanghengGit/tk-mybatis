@@ -37,6 +37,7 @@ import java.util.*;
  * 通用的Example查询对象
  *
  * @author liuzh
+ * @date 20200403
  */
 public class Example implements IDynamicTableName {
     protected String orderByClause;
@@ -511,6 +512,7 @@ public class Example implements IDynamicTableName {
          * 将此对象的所有字段参数作为相等查询条件，如果字段为 null，则为 is null
          *
          * @param param 参数对象
+         * 必andEqualTo多andIsNull(property)方法
          */
         public Criteria andAllEqualTo(Object param) {
             MetaObject metaObject = SystemMetaObject.forObject(param);

@@ -34,6 +34,7 @@ import tk.mybatis.mapper.provider.ExampleProvider;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @date 20200403
  */
 public interface UpdateByExampleMapper<T> {
 

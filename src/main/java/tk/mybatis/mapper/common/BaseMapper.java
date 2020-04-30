@@ -38,6 +38,7 @@ import tk.mybatis.mapper.common.base.BaseUpdateMapper;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @date 20200403
  */
 public interface BaseMapper<T> extends
         BaseSelectMapper<T>,
