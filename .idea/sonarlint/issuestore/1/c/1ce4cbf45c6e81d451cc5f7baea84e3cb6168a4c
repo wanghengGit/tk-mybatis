@@ -1,0 +1,26 @@
+
+Q
+java:S1117":Rename "schema" which hides the field declared at line 47.(¹®¡
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„«íºûÿÿÿÿ
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆìàøÿÿÿÿ
+k	java:S116,"QRename this field "BEFORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ„­Ùúÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÿÀİüÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‡„Ë
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÜÆÚÚıÿÿÿÿ
+Y
+java:S1117…"=Rename "seqFormat" which hides the field declared at line 45.(å°¤ ùÿÿÿÿ
+a
+java:S1117™"JRename "enableMethodAnnotation" which hides the field declared at line 55.(ğ¨‰™
+Q
+java:S1117‰";Rename "catalog" which hides the field declared at line 46.(à­½O
+d	java:S116*"ORename this field "UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ö‚
+S
+java:S1117•"<Rename "notEmpty" which hides the field declared at line 59.(£·œî
+T
+java:S1117ı"8Rename "UUID" which hides the field declared at line 42.(„«íºûÿÿÿÿ
+h	java:S116+"SRename this field "IDENTITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î•¼
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓöË—
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŒ—Ä
+S
+java:S1117"<Rename "IDENTITY" which hides the field declared at line 43.(ÛŒ—Ä

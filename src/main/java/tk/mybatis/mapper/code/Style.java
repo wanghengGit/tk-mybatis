@@ -26,6 +26,8 @@ package tk.mybatis.mapper.code;
 
 /**
  * 字段转换方式
+ * @author kit
+ * @date 20200729
  */
 public enum Style {
     normal,                     //原值

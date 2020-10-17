@@ -1,0 +1,15 @@
+
+_
+java:S1192‚"HDefine a constant instead of duplicating this literal "</trim>" 3 times.(±“íˆ
+s	java:S135L"YReduce the total number of break and continue statements in this loop to use at most one.(™Ñ·èøÿÿÿÿ
+t	java:S135¦"YReduce the total number of break and continue statements in this loop to use at most one.(™Ñ·èøÿÿÿÿ
+@
+java:S5411W"*Use the primitive boolean expression here.(¿üê
+A
+java:S5411²"*Use the primitive boolean expression here.(¿üê
+m
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ï‡¶úÿÿÿÿ
+>	java:S108P")Either remove or fill this block of code.(¡ˆ¯
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Îô¯æ
+R	java:S125«"<This block of commented-out lines of code should be removed.(¸ñšÀ

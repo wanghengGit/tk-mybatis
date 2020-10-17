@@ -1,0 +1,18 @@
+
+Z
+java:S1155¼">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ
+g	java:S116C"RRename this field "ORDERBY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àè–§
+Q
+java:S1133ã"5Do not forget to remove this deprecated code someday.(îýûùøÿÿÿÿ
+v
+java:S1192Š"_Define a constant instead of duplicating this literal "å½“å‰å®žä½“ç±»ä¸åŒ…å«åä¸º" 3 times.(‹´‰¥
+T
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
+v
+java:S1488þ"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(ÜõÌ
+A
+java:S5411¨"*Use the primitive boolean expression here.(¹¹½ˆ
+A
+java:S5411 "*Use the primitive boolean expression here.(¹¹½ˆ
+L
+java:S1133Ô"5Do not forget to remove this deprecated code someday.(†Îæ¸

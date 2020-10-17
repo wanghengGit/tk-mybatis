@@ -36,6 +36,7 @@ import java.util.Properties;
  * 通用Mapper属性配置
  *
  * @author liuzh
+ * @date 20200729
  */
 public class Config {
     private String  UUID;

@@ -32,6 +32,7 @@ import tk.mybatis.mapper.util.StringUtil;
  * 数据库表对应的列
  *
  * @author liuzh
+ * @date 20200729
  */
 public class EntityColumn {
     private EntityTable table;

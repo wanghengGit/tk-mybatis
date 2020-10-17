@@ -32,6 +32,7 @@ import tk.mybatis.mapper.provider.base.BaseSelectProvider;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @author kit
  * @date 20200403
  */
 public interface SelectOneMapper<T> {

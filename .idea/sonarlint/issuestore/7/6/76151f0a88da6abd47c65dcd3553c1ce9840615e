@@ -1,0 +1,11 @@
+
+L
+java:S1133­"5Do not forget to remove this deprecated code someday.(…íÜ–
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(øÌëÞ
+U
+java:S1155æ">Use isEmpty() to check whether the collection is empty or not.(ðªÿ“
+O
+java:S11184":Add a private constructor to hide the implicit public one.(ôÙº
+Q
+java:S1133œ"5Do not forget to remove this deprecated code someday.(—€¬êùÿÿÿÿ

@@ -33,6 +33,7 @@ import java.lang.annotation.Target;
 
 /**
  * 名字转换样式，注解的优先级高于全局配置
+ * @date 20200729
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

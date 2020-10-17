@@ -1,0 +1,52 @@
+
+{
+java:S1488æ"dImmediately return this expression instead of assigning it to the temporary variable "validSqlNode".(Ô›Û
+i	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¥¿øÿÿÿÿ
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(çßÌãÿÿÿÿÿ
+V
+java:S1117•"?Rename "mapperClass" which hides the field declared at line 61.(ÆÿÍ±
+Q
+java:S1133¯"5Do not forget to remove this deprecated code someday.(™Ô–æùÿÿÿÿ
+\	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(ô«¾
+Q
+java:S1133Ã"5Do not forget to remove this deprecated code someday.(š”êŒûÿÿÿÿ
+L
+java:S1133©"5Do not forget to remove this deprecated code someday.(®ë½ù
+`
+java:S2259–"IA "NullPointerException" could be thrown; "mapperClass" is nullable here.(³Ìäë
+L
+java:S1133ô"5Do not forget to remove this deprecated code someday.(Úáàï
+Q
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(´ë­¨ıÿÿÿÿ
+L
+java:S1133‰"5Do not forget to remove this deprecated code someday.(‚»Ï×
+T
+java:S3400r"9Remove this method and declare a constant for this value.(«“Ì¿úÿÿÿÿ
+{
+java:S1488ô"dImmediately return this expression instead of assigning it to the temporary variable "whereSqlNode".(Óüå
+C
+java:S1172q"-Remove this unused method parameter "record".(³¢âæ
+V
+java:S1117™"?Rename "mapperClass" which hides the field declared at line 61.(ÆÿÍ±
+Q
+java:S1133€"5Do not forget to remove this deprecated code someday.(¶ÓêÏøÿÿÿÿ
+Q
+java:S1133¶"5Do not forget to remove this deprecated code someday.(à¥÷ßşÿÿÿÿ
+Q
+java:S1133ñ"5Do not forget to remove this deprecated code someday.(Ä€İ¶øÿÿÿÿ
+D
+java:S1123Ñ"(Add the missing @deprecated Javadoc tag.(Ç¥¿øÿÿÿÿ
+L
+java:S1133˜"5Do not forget to remove this deprecated code someday.(ÀÌú÷
+Q
+java:S1133à"5Do not forget to remove this deprecated code someday.(óÆ‚Üúÿÿÿÿ
+Q
+java:S1133Ğ"5Do not forget to remove this deprecated code someday.(ìÔÂüÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’Ú–ùÿÿÿÿ
+Q
+java:S1133Ñ"5Do not forget to remove this deprecated code someday.(Ç¥¿øÿÿÿÿ
+{
+java:S1488ƒ"dImmediately return this expression instead of assigning it to the temporary variable "whereSqlNode".(Óüå
+ƒ
+java:S1130Å"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ô«¾

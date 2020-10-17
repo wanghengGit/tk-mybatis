@@ -33,6 +33,7 @@ import java.lang.reflect.Method;
  * 封装字段和方法，统一调用某些方法
  *
  * @author liuzh
+ * @date 20200729
  */
 public class EntityField {
     private String name;

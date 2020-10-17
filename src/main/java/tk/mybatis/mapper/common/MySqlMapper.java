@@ -32,6 +32,8 @@ import tk.mybatis.mapper.common.special.InsertUseGeneratedKeysMapper;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @author kit
+ * @date 20200903
  */
 public interface MySqlMapper<T> extends
         InsertListMapper<T>,

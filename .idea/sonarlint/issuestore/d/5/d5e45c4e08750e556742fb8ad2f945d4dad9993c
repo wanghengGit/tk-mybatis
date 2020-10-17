@@ -1,0 +1,15 @@
+
+‚
+java:S1192â"kDefine a constant instead of duplicating this literal "              and ${criterion.condition}\n" 4 times.(Ñ ÏÖ
+t	java:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(™Ñ·èøÿÿÿÿ
+g
+java:S1192|"LDefine a constant instead of duplicating this literal "<if test=\"" 4 times.(ãì¤æúÿÿÿÿ
+`
+java:S1192×"IDefine a constant instead of duplicating this literal "</where>" 4 times.(øâü¯
+r
+java:S1192ã"VDefine a constant instead of duplicating this literal "            </when>\n" 8 times.(Õ•ÏÇûÿÿÿÿ
+t	java:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(™Ñ·èøÿÿÿÿ
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(¬ã‹™øÿÿÿÿ
+]
+java:S11928"GDefine a constant instead of duplicating this literal "</if>" 13 times.(à—¾•

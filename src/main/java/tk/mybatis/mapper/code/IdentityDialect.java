@@ -26,6 +26,7 @@ package tk.mybatis.mapper.code;
 
 /**
  * @author liuzh
+ * @date 20200729
  */
 public enum IdentityDialect {
     DB2("VALUES IDENTITY_VAL_LOCAL()"),

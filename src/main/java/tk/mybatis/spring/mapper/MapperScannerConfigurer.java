@@ -33,7 +33,10 @@ import tk.mybatis.mapper.util.StringUtil;
 
 import java.util.Properties;
 
-
+/**
+ * @author kit
+ * @date 20200804
+ */
 public class MapperScannerConfigurer extends org.mybatis.spring.mapper.MapperScannerConfigurer {
     private MapperHelper mapperHelper = new MapperHelper();
 

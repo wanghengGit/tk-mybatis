@@ -32,6 +32,7 @@ import tk.mybatis.mapper.entity.IDynamicTableName;
  * OGNL静态方法
  *
  * @author liuzh
+ * @date 20200729
  */
 public abstract class OGNL {
 

@@ -46,6 +46,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * <p>项目地址 : <a href="https://github.com/abel533/Mapper" target="_blank">https://github.com/abel533/Mapper</a></p>
  *
  * @author liuzh
+ * @author kit
  * @date 20200403
  */
 public class MapperHelper {

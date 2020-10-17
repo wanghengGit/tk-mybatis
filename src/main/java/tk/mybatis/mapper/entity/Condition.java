@@ -29,6 +29,7 @@ package tk.mybatis.mapper.entity;
  *
  * @author liuzh
  * @since 2015-06-10
+ * @date 20200729
  */
 public class Condition extends Example {
     public Condition(Class<?> entityClass) {

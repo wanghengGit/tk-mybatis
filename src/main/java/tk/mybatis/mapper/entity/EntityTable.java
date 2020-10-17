@@ -38,6 +38,7 @@ import java.util.*;
  * 数据库表
  *
  * @author liuzh
+ * @date 20200729
  */
 public class EntityTable {
     private String name;
