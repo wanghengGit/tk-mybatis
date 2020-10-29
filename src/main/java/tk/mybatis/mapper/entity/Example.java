@@ -37,7 +37,8 @@ import java.util.*;
  * 通用的Example查询对象
  *
  * @author liuzh
- * @date 20200403
+ * @author kit
+ * @date 20201029
  */
 public class Example implements IDynamicTableName {
     protected String orderByClause;

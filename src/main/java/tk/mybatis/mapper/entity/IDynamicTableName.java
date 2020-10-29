@@ -29,7 +29,8 @@ package tk.mybatis.mapper.entity;
  *
  * @author liuzh
  * @since 2015-10-28 22:20
- * @date 20200729
+ * @author kit
+ * @date 20201029
  */
 public interface IDynamicTableName {
 

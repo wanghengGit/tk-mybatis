@@ -32,6 +32,9 @@ import tk.mybatis.mapper.mapperhelper.MapperHelper;
  * @param <T>
  * @author liuzh
  * @date 20200403
+ * @author kit
+ * @date 20201029
+ * MapperFactoryBean -> SqlSessionDaoSupport -> DaoSupport
  */
 public class MapperFactoryBean<T> extends org.mybatis.spring.mapper.MapperFactoryBean<T> {
 

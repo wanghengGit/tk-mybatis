@@ -26,6 +26,7 @@ package tk.mybatis.mapper.code;
 
 /**
  * @author liuzh
+ * @author kit
  * @date 20200729
  */
 public enum IdentityDialect {

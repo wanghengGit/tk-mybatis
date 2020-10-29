@@ -1,0 +1,2 @@
+
+Mybatis支持@SelectProvider注解，tk Mapper正是运用了该技术，通过解析持久类，拼接xml形式的SQL语句，重新为MappedStatment设置SqlSource实现功能

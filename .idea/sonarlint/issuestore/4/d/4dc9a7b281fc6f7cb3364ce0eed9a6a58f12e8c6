@@ -1,17 +1,15 @@
 
-U
-java:S1118%":Add a private constructor to hide the implicit public one.(êÙ–úÿÿÿÿ
-d
-java:S4201/"IRemove this unnecessary null check; "instanceof" returns false for nulls.(î€Ô›ùÿÿÿÿ
 _
-java:S4201A"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
-_
-java:S4201_"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
-_
-java:S4201w"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ìî ¨
-_
-java:S4201Q"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
+java:S4201B"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
 W
-java:S1126w"AReplace this if-then-else statement by a single return statement.(ìî ¨
-Y
-java:S1155C">Use isEmpty() to check whether the collection is empty or not.(‰§Û›ùÿÿÿÿ
+java:S1126x"AReplace this if-then-else statement by a single return statement.(ìî ¨
+_
+java:S4201`"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
+_
+java:S4201x"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ìî ¨
+d
+java:S42010"IRemove this unnecessary null check; "instanceof" returns false for nulls.(î€Ô›ùÿÿÿÿ
+_
+java:S4201R"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
+U
+java:S1118&":Add a private constructor to hide the implicit public one.(êÙ–úÿÿÿÿ

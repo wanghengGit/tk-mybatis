@@ -1,0 +1,13 @@
+
+h	java:S101â"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¤Ü‰ıÿÿÿÿ
+0
+java:S1700."Rename field "fieldHelper"(è”Åò
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÇÑ¹
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ·úï
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Œ·úï
+`
+java:S4201¤"IRemove this unnecessary null check; "instanceof" returns false for nulls.(šŠî˜
+d	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËËİ
+i
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ËËİ

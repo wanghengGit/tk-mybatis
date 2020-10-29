@@ -1,7 +1,7 @@
 
 [
 java:S2259‹"DA "NullPointerException" could be thrown; "mapper" is nullable here.(¾œ„™
-U
-java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(»ûãÇ
 K
 java:S1066¹"/Merge this if statement with the enclosing one.(„àÜÆÿÿÿÿÿ
+U
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(»ûãÇ

@@ -34,6 +34,8 @@ import tk.mybatis.mapper.provider.base.BaseSelectProvider;
  * @author liuzh
  * @author kit
  * @date 20200403
+ * @SelectProvider是mybatis3之后提供的，用于灵活的设置sql来源，这里设置了服务提供类和方法，
+ * 但这个库并没有直接用method指定的方法来返回sql，而是在运行时进行解析的
  */
 public interface SelectOneMapper<T> {
 

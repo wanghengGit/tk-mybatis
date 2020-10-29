@@ -39,6 +39,8 @@ import java.util.Set;
  * BaseInsertProvider实现类，基础方法实现类
  *
  * @author liuzh
+ * @author kit
+ * @date 20201029
  */
 public class BaseInsertProvider extends MapperTemplate {
 

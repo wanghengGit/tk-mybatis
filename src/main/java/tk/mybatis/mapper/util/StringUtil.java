@@ -31,6 +31,8 @@ import java.util.regex.Pattern;
 
 /**
  * Created by liuzh_3nofxnp on 2015/8/26.
+ * @author kit
+ * @date 20201029
  */
 public class StringUtil {
 

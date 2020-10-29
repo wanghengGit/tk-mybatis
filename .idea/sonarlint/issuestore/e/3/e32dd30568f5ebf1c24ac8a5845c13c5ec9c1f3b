@@ -1,0 +1,19 @@
+
+m
+java:S1192 "QDefine a constant instead of duplicating this literal "@Table(name = \"" 3 times.(â›Ğàıÿÿÿÿ
+Š
+java:S4144¿"nUpdate this method so that its implementation is not identical to "modelBaseRecordClassGenerated" on line 178.(†õ–œıÿÿÿÿ
+Q
+java:S1117K";Rename "mappers" which hides the field declared at line 50.(™´åè
+\
+java:S1117S"ARename "caseSensitive" which hides the field declared at line 51.(Îù”ïşÿÿÿÿ
+\
+java:S1117W"FRename "beginningDelimiter" which hides the field declared at line 53.(ûççŒ
+^
+java:S1117\"CRename "endingDelimiter" which hides the field declared at line 55.(åÑ®úÿÿÿÿ
+P
+java:S1117a":Rename "schema" which hides the field declared at line 57.(»”°™
+d
+java:S1871¡"MThis branch's code block is the same as the block for the branch on line 159.(ó¶í
+d
+java:S1871¥"MThis branch's code block is the same as the block for the branch on line 159.(ş¹°€

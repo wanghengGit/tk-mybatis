@@ -37,6 +37,8 @@ import java.util.Properties;
  *
  * @author liuzh
  * @date 20200729
+ * @author kit
+ * @date 20201029
  */
 public class Config {
     private String  UUID;

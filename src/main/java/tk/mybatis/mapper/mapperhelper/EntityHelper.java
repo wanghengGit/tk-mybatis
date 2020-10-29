@@ -47,7 +47,8 @@ import java.util.*;
  * <p>项目地址 : <a href="https://github.com/abel533/Mapper" target="_blank">https://github.com/abel533/Mapper</a></p>
  *
  * @author liuzh
- * @date 20200729
+ * @author kit
+ * @date 20201029
  */
 public class EntityHelper {
 

@@ -33,6 +33,8 @@ import tk.mybatis.mapper.util.StringUtil;
  *
  * @author liuzh
  * @date 20200729
+ * @author kit
+ * @date 20201029
  */
 public class EntityColumn {
     private EntityTable table;

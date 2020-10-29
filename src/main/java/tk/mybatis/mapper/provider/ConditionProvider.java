@@ -32,6 +32,8 @@ import tk.mybatis.mapper.mapperhelper.MapperTemplate;
  * ConditionProvider实现类，基础方法实现类
  *
  * @author liuzh
+ * @author kit
+ * @date 20201029
  */
 public class ConditionProvider extends MapperTemplate {
 

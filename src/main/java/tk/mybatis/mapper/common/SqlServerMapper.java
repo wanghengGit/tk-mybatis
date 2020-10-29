@@ -33,6 +33,8 @@ import tk.mybatis.mapper.common.sqlserver.InsertSelectiveMapper;
  *
  * @param <T> 不能为空
  * @author liuzh
+ * @author kit
+ * @date 20201029
  */
 public interface SqlServerMapper<T> extends
         InsertMapper<T>,

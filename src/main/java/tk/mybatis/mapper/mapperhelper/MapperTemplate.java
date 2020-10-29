@@ -217,6 +217,7 @@ public abstract class MapperTemplate {
      * @param ms
      * @throws java.lang.reflect.InvocationTargetException
      * @throws IllegalAccessException
+     * 设置sql的逻辑，提供了几种不同类型的sqlsource
      */
     public void setSqlSource(MappedStatement ms) throws Exception {
         if (this.mapperClass == getMapperClass(ms.getId())) {
