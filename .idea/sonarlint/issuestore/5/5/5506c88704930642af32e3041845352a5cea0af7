@@ -1,9 +1,9 @@
 
-}
-java:S1149ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯†¼8‰„ö×.
-u
-java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(İ¢êÍıÿÿÿÿ8‰„ö×.
 H
 java:S1452i"&Remove usage of generic wildcard type.(£¬‰ıÿÿÿÿ8‰„ö×.
 P
 java:S1172Ş"-Remove this unused method parameter "suffix".(ÒÂÇüÿÿÿÿ8‰„ö×.
+u
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(İ¢êÍıÿÿÿÿ8‰„ö×.
+}
+java:S1149ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯†¼8‰„ö×.

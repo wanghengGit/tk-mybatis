@@ -125,3 +125,5 @@ m
 =src/main/java/tk/mybatis/mapper/provider/ExampleProvider.java,f\5\f5a43ade8bfa3bd3948380dd34c99a581beff739
 i
 9src/main/java/tk/mybatis/mapper/provider/IdsProvider.java,4\3\431cafc29ef81ca8ba6ff56a61d55e34bb0624f1
+}
+Msrc/main/java/tk/mybatis/mapper/common/base/insert/InsertSelectiveMapper.java,9\f\9fb2cdf91718949c49d27b6e2e865aa0c53224ba

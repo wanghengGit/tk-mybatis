@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="952ffb03-55b9-4f7f-b5ab-3be72082c428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13e4204420f78cb5bd211bfa3d47ab0a3e4eff6e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13e4204420f78cb5bd211bfa3d47ab0a3e4eff6e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14cb146031952ef085c51136827504ddd3da057b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14cb146031952ef085c51136827504ddd3da057b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1ce4cbf45c6e81d451cc5f7baea84e3cb6168a4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1ce4cbf45c6e81d451cc5f7baea84e3cb6168a4c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dc9a7b281fc6f7cb3364ce0eed9a6a58f12e8c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dc9a7b281fc6f7cb3364ce0eed9a6a58f12e8c6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/545ed166ce10f9c8e73ddbd6474a18e35f03297e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/545ed166ce10f9c8e73ddbd6474a18e35f03297e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5506c88704930642af32e3041845352a5cea0af7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5506c88704930642af32e3041845352a5cea0af7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/649573bf64b2cb2509adddedb95dfe7ee6b5fa6a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/649573bf64b2cb2509adddedb95dfe7ee6b5fa6a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7052b8a6802b29cc3d76421630a7bc286fc0202b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7052b8a6802b29cc3d76421630a7bc286fc0202b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76151f0a88da6abd47c65dcd3553c1ce9840615e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76151f0a88da6abd47c65dcd3553c1ce9840615e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/818066eb35cb799ca31a25dfb475226c9942541a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/818066eb35cb799ca31a25dfb475226c9942541a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d09ba59b3ba4d2d2ca7c1cd6cb77a954b0a8fbf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d09ba59b3ba4d2d2ca7c1cd6cb77a954b0a8fbf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a930d766edbc2cb35d39fe42991f481ffc8b0a34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a930d766edbc2cb35d39fe42991f481ffc8b0a34" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b39bcde89595e903ba0f3fc09210a04e38d25d9b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b39bcde89595e903ba0f3fc09210a04e38d25d9b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f1b3deaead276a97ea60b276d3fd8b394171b7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f1b3deaead276a97ea60b276d3fd8b394171b7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5e45c4e08750e556742fb8ad2f945d4dad9993c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5e45c4e08750e556742fb8ad2f945d4dad9993c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/annotation/ColumnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/annotation/ColumnType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/annotation/NameStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/annotation/NameStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/code/IdentityDialect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/code/IdentityDialect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/common/SqlServerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/common/SqlServerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/common/base/select/SelectOneMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/common/base/select/SelectOneMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityColumn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/EntityTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/IDynamicTableName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/entity/IDynamicTableName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/EntityHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/EntityHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/MapperTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/MapperTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/SqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/mapperhelper/SqlHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/ConditionProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/ConditionProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseDeleteProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseDeleteProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseInsertProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseInsertProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/util/OGNL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/util/OGNL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/util/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tk/mybatis/spring/mapper/MapperFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tk/mybatis/spring/mapper/MapperFactoryBean.java" afterDir="false" />
-    </list>
+    <list default="true" id="952ffb03-55b9-4f7f-b5ab-3be72082c428" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseInsertProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+            <state relative-caret-position="330">
+              <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -458,7 +418,7 @@
       <workItem from="1603963286350" duration="236000" />
       <workItem from="1603964316297" duration="916000" />
       <workItem from="1603965391211" duration="2039000" />
-      <workItem from="1603967478551" duration="526000" />
+      <workItem from="1603967478551" duration="616000" />
     </task>
     <servers />
   </component>
@@ -495,7 +455,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24917000" />
+    <option name="totallyTimeSpent" value="25007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -913,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tk/mybatis/mapper/provider/base/BaseInsertProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+        <state relative-caret-position="330">
+          <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
         </state>
       </provider>
     </entry>

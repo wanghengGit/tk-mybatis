@@ -1,15 +1,15 @@
 
+U
+java:S1118&":Add a private constructor to hide the implicit public one.(êÙ–úÿÿÿÿ
+d
+java:S42010"IRemove this unnecessary null check; "instanceof" returns false for nulls.(î€Ô›ùÿÿÿÿ
 _
 java:S4201B"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
+_
+java:S4201R"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
 W
 java:S1126x"AReplace this if-then-else statement by a single return statement.(ìî ¨
 _
 java:S4201`"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
 _
 java:S4201x"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ìî ¨
-d
-java:S42010"IRemove this unnecessary null check; "instanceof" returns false for nulls.(î€Ô›ùÿÿÿÿ
-_
-java:S4201R"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ä÷Íˆ
-U
-java:S1118&":Add a private constructor to hide the implicit public one.(êÙ–úÿÿÿÿ
